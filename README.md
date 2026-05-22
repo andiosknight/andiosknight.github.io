@@ -1,4 +1,4 @@
-<img width="724" height="370" alt="изображение" src="https://github.com/user-attachments/assets/3cc3559e-ab8f-44b5-b4f3-ef72655755a7" /># Отчет по лабораторной работе №4.1: Создание веб-сайта с использованием GitHub Pages и GitHub Actions
+# Отчет по лабораторной работе №4.1: Создание веб-сайта с использованием GitHub Pages и GitHub Actions
 
 ## Цель работы
 Изучение процесса публикации статического веб-сайта на хостинге GitHub Pages с использованием автоматизированного пайплайна (CI/CD) на базе GitHub Actions.
@@ -6,7 +6,7 @@
 ---
 
 ## Ссылка на работающий веб-сайт
-**[[](https://andiosknight.github.io/)](https://andiosknight.github.io/)**
+**[(https://andiosknight.github.io/)](https://andiosknight.github.io/)**
 
 ---
 
